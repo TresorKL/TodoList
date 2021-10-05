@@ -1,0 +1,57 @@
+.head{
+
+text-align: center;
+background-color: #4d4d4d;
+position: relative;
+top: 40%;
+width: 270px;
+height: 60px;
+left: 500px;
+}
+h1{
+
+color: white;
+text-decoration-style: solid;
+}
+
+div > input{
+  padding: 12px;
+  border-width:thin;
+  border-color: black;
+  position: relative;
+  width: 150px;
+  top: 35px;
+  left: 500px;
+}
+
+div > button{
+
+  background-color: #00cc00;
+  padding: 12px;
+  position: relative;
+  width: 100px;
+  top: 35px;
+  left: 497px;
+}
+
+ul{
+  position: relative;
+  top: 35px;
+  left: 480px;
+}
+ul>li{
+  padding: 25px;
+}
+
+li>button{
+
+  background-color: #00cc00;
+  padding: 10px;
+  position: relative;
+  width: 100px;
+
+}
+
+li>span{
+  padding: 10px;
+}

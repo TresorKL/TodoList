@@ -1,0 +1,16 @@
+<li>
+<span>write 3 pages per </span>
+<button class="delete" type="button" name="button">DELETE</button>
+</li>
+<li >
+<span>READ 5 chaptre p</span>
+<button class="delete" type="button" name="button">DELETE</button>
+</li>
+<li >
+<span>WORK OUT 3 H </span>
+<button class="delete"type="button" name="button">DELETE</button>
+</li>
+<li >
+<span>GO OUT FOR W </span>
+<button class="delete" type="button" name="button">DELETE</button>
+</li>
